@@ -1,0 +1,20 @@
+.salmon,
+.font1 {
+    background-color: rgb(212, 119, 119);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #15d932;
+    font-size: 24px;
+    font-weight: bold;
+}
